@@ -1,4 +1,6 @@
 # RayCastingFinal
-RayCasting Implementation, usina a farm as a scenario.
+RayCast Implementation, using a farm as a scenario.
 
-Made together with Andre Luiz
+Created by:
+Ricardo Goes
+Andre Luiz
